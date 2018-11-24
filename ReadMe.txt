@@ -1,6 +1,6 @@
-Guide to play Lab6_MemoryGame.html
+Guide to play MemoryGame.html
 
-#Step 1: load the Lab6_MemoryGame.html from your most preferred browser
+#Step 1: load the MemoryGame.html from your most preferred browser
 
 #Step 2: Press the new game button to start the game
          Press the new game button at any time to reset the game
