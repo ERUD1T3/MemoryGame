@@ -30,21 +30,21 @@ table, td {
 
 #score {
     position: absolute;
-    top: 650px;
+    top: 670px;
     font-family: "roboto";
     font-size: 18px
 }
 
 #tries {
     position: absolute;
-    top: 680px;
+    top: 700px;
     font-family: "roboto";
     font-size: 18px
 }
 
 #time {
     position: absolute;
-    top: 710px;
+    top: 730px;
     font-family: "roboto";
     font-size: 18px
 }
