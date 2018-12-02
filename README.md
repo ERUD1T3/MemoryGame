@@ -16,3 +16,7 @@ implementation of memory game in JavaScript
 
 # Game Screenshot
   
+  ![alt text](https://raw.github.com/username/projectname/
+        MemoryGame/Screenshot from 2018-12-02 17-14-41.png
+      )
+
